@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:0,CNN
+http://109.123.114.178:1935/Livenewson/Livenewson43/playlist.m3u8
+#EXTINF:0,BBC News HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,SKY News UK HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-p.m3u8
+#EXTINF:0,RTE News Now (Ireland)
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:0,RTE1 HD (Ireland)
+https://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+#EXTINF:0,RTE2 HD (Ireland)
+https://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+#EXTINF:0,Al Jazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0,TV3 NZ Newshub
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
+#EXTINF:0,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
+#EXTINF:0,C-SPAN (US)
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on 
+#EXTINF:0,C-SPAN 2 (US)
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on 
+#EXTINF:0,C-SPAN 3 (US)
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on 
+#EXTINF:-1, DW (Germany)
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:0,I24 HD
+http://stream-01.dc3.dailymotion.com/57/dm/3/x29atae/live-4.m3u8
+#EXTINF:0,TRT World HD (Turkey)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0,NDTV 24/7 News (India)
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+#EXTINF:0,CGTN (China)
+http://live.cgtn.com/manifest.m3u8
+#EXTINF:0,CGTN Documentary (China)
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1,NHK WORLD HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:0,Arirang World (South Korea)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,Shine TV (NZ)
+http://rhema.streamguys1.com/live/smil:shinetv.smil/chunklist_w1819023898_b1280000.m3u8
+#EXTINF:0,Insight HD (UK)
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:0,Twit Tech
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Russia Today
+https://secure-streams.akamaized.net/rt/index2500.m3u8
+#EXTINF:0,Russia Today US Feed
+https://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:0,Russia Today UK Feed
+https://secure-streams.akamaized.net/rt-uk/index2500.m3u8
+#EXTINF:0,RT Documentary
+https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+#EXTINF:0,REV'N
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:0,Destination America HD
+https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
+#EXTINF:0,Investigation Discovery HD
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+#EXTINF:0,Viceland
+http://stream.memesyndicate.com/live/thx/index.m3u8
+
