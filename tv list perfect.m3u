@@ -77,7 +77,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/52/index
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/476/index.m3u8
 #EXTINF:0,VH1 classic
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/237/index.m3u8
-#EXTINF:-1,Wilderness Channel (USA)
+#EXTINF:0,Wilderness Channel (USA)
 http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-#EXTINF:-1,Classic TV 4U
+#EXTINF:0,Classic TV 4U
 http://nyc01.netcasterstream.com:8081/dashtv/classictv4u/playlist.m3u8
