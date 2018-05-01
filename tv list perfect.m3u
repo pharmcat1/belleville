@@ -6,7 +6,7 @@ http://149.56.26.63:1935/newson/myStream//playlist.m3u8?secureendtime=1525215302
 http://149.56.26.63:1935/newson/myStream//playlist.m3u8?secureendtime=1525215302&securehash=RwtjyLHYeRXWP8g5CdmkJcD68T-iHSu1iqeWVAyfw-I=&securestarttime=1525197302
 #EXTM3U
 #EXTINF:0,CNN 2
-http://149.56.26.63:1935/newson/myStream//playlist.m3u8?secureendtime=1525206305&securehash=RlkyDk0QOdQ6K0fFBOsyw2KQ5pgrtpgem1nzcF1LqZk=&securestarttime=1525188305
+http://149.56.26.63:1935/newswatch/myStream//playlist.m3u8?secureendtime=1525207815&securehash=PtULZAD1EpmuvCQj_oQC7y_E4TpNEpFcNLM9oiaH2TwF_qdAXh_eu_MtzfM_jOccTi1AYwKQUuAoE89rl5MVhQ==&securestarttime=1525206915
 #EXTINF:0,CNN Int Europe
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
 #EXTINF:0,BBC News HD
