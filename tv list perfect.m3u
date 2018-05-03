@@ -1,13 +1,12 @@
 #EXTM3U
 #EXTINF:0,CNN
-http://149.56.26.63:1935/newswatch/myStream//playlist.m3u8?secureendtime=1525207815&securehash=PtULZAD1EpmuvCQj_oQC7y_E4TpNEpFcNLM9oiaH2TwF_qdAXh_eu_MtzfM_jOccTi1AYwKQUuAoE89rl5MVhQ==&securestarttime=1525206915
+http://149.56.26.63:1935/nawscnewon/myStream/playlist.m3u8
 #EXTM3U
 #EXTINF:0,CNN 1
-http://149.56.26.63:1935/newswatch/myStream//playlist.m3u8?secureendtime=1525289601&securehash=RW21RtcrkZkNzFYpC__FxvJvh9KkPFJmCzMG3_ro61LUFW9qaZ0ArdPk42vj7z2XLsY9NlUWW2mEkwrCyyRTVw==&securestarttime=1525288401
+http://149.56.26.63:1935/nawscnewon/myStream/playlist.m3u8
 #EXTM3U
 #EXTINF:0,CNN 2
-http://149.56.26.63:1935/newswatch/myStream//playlist.m3u8?secureendtime=1525289601&securehash=RW21RtcrkZkNzFYpC__FxvJvh9KkPFJmCzMG3_ro61LUFW9qaZ0ArdPk42vj7z2XLsY9NlUWW2mEkwrCyyRTVw==&securestarttime=1525288401
-#EXTINF:0,CNN Int Europe
+http://149.56.26.63:1935/nawscnewon/myStream/playlist.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
 #EXTINF:0,BBC News HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
