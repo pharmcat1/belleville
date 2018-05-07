@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,CNN now
+#EXTINF:0,CNN
 http://149.56.26.63:1935/cnew/myStream/playlist.m3u8
 #EXTINF:0,CNN Int Europe
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/102/index.m3u8
@@ -11,8 +11,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-p.m3u8
 #EXTINF:0,Al Jazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-#EXTINF:0,TV3 NZ Newshub
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8
+#EXTINF:0,CNN international
+http://cnn-i.akamaihd.net/hls/live/253954/dotcomlive_2/master.m3u8
 #EXTINF:0,MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
 #EXTINF:-1, DW (Germany)
